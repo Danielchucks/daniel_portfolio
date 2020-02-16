@@ -9,7 +9,7 @@
    },
    "author": "Daniel Chukwuma",
    "license": "",
-   "homepage": "https://DanielChuks.github.io/daniel_portfolio",
+   "homepage": "https://danielchuks.github.io/daniel_portfolio",
    "dependencies": {
       "gh-pages": "^1.2.0"
    },
